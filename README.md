@@ -1,4 +1,4 @@
-b3log-noty [![Build Status](https://travis-ci.org/b3log/b3log-noty.png?branch=master)](https://travis-ci.org/b3log/b3log-noty)
+Noty [![Build Status](https://travis-ci.org/b3log/noty.png?branch=master)](https://travis-ci.org/b3log/noty)
 ----
 
 Noty [nəuti] 是一个用于知识管理与分享的网络应用，您可以用它来记便签，也可以用它来写博客，甚至可以用它来订阅您感兴趣的信息，但最重要的是您可以用它来整理知识，并把这些知识分享给他人。
